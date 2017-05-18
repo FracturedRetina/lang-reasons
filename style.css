@@ -15,9 +15,10 @@ h1 {
 	padding-right: 10px;
 }
 
-body > div > div {
+.column {
 	display: inline-table;
-	width: 325px;
+	width: 245px;
+	height: 92.5%;
 	padding: 10px;
 }
 
@@ -35,6 +36,7 @@ p {
 }
 
 #background {
+	text-align: center;
 	position: absolute;
 	filter: opacity(12.5%);
 	display: table;
@@ -64,8 +66,9 @@ p {
 }
 
 img {
-	width: 250px;
+	width: 200px;
 	border-radius: 25px;
 	-webkit-border-radius: 25px;
 	-moz-border-radius: 25px;
+	object-fit: cover;
 }

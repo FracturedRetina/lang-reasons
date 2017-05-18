@@ -14,10 +14,10 @@ $(document).ready(function() {
 		
 		shuffle(json.salutations);
 		
-		var fullstr = "-";
+		var fullstr = " ";
 		
 		for (var i = 0; i < json.salutations.length; i++) {
-			fullstr += json.salutations[i] + "-";
+			fullstr += json.salutations[i] + " ";
 		}
 		$('#subtitle').html(fullstr);
 	});

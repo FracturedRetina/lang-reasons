@@ -4,39 +4,39 @@
 			"en":"Why You Should Take a Language in High School",
 			"es":"La razón que debes tomar una lenguaje en esculea secondaria"
 		},
-		"#immigrants > h2":{
+		"#immigrants h2":{
 			"en": "The US is a Nation of Immigrants",
 			"es": "Los EEUU son un nación de inmigrantes"
 		},
-		"#immigrants > #p1":{
+		"#immigrants #p1":{
 			"en": "According to the US Census, population is shifting from foreign born to native born. Additionally, they say that more than one in five Americans speaks a language other than English in the home. If you know another language, you will have another way to meet and interact with other members of your community.",
 			"es": "Sigue el census estadounidense, un parte aumentando de la población se nació es países extranjeros. Adicionalmente, dicieron que más que uno de cinco estadounidenses habla un idoma otra de inglés en su casa. Si sabes una otra lenguaje, tienes un otro modo de conocer a miembros de tu comunidad."
 		},
-		"#immigrants > #p2":{
+		"#immigrants #p2":{
 			"en": "In other parts of the world, it is far more common to be bilingual. This means that if you intend to travel the world, it will be helpful to know any language.",
 			"es": "En otras partes del mundo, es más común ser bilingual. Así si sabes un otro idioma, sería ayudoso saber cualquier idioma."
 		},
-		"#resume > h2":{
+		"#resume h2":{
 			"en": "Build Your Résumé",
 			"es": "Aumenta tu curriculum vitae"
 		},
-		"#resume > #p1":{
+		"#resume #p1":{
 			"en": "The purpose of school is to prepare students for their role in the workplace, but foreign language classes are one of few things in high school that can be put on a résumé. In a world of increasing globalization, biliteracy is increasingly valuable to employers.",
 			"es": "El propósito de escuela es preparar los estudientes para su papel en el lugar de trabajo, pero clases de idiomas son uno de las cosas raras que se puede poner en un curriculum vitae. En el mundo de globilización, bilingúismo está aumentando en valor a empleadores."
 		},
-		"#resume > #p2":{
+		"#resume #p2":{
 			"en": "Additionally, If you want to wait until after high school, learning a language will become much more expensive. Why not get some class credits out of the way while learning a valuable skill for free?",
 			"es": "Adicionalmente, si quieres esperar hasta después del la escuela secundaria, aprender un idioma cuesta bastante más. ¿Por qué no querrías conseguir algunos creditos escolares mientras aprender una habilidad valorosa gratis?"
 		},
-		"#brain > h2":{
+		"#brain h2":{
 			"en":"Change How Your Brain Works",
 			"es":"Cambia cómo functiona su cerebro"
 		},
-		"#brain > #p1":{
+		"#brain #p1":{
 			"en":"Learning a foreign language builds your analytical skills and creativity. Study of a new language forces the brain to be able to view things from different perspectives and consider viewpoints that were previously unknown. Students can apply this not only to their classwork, but also to real world problems.",
 			"es":"Aprender un idioma aumenta tus habilidades analíticos y creatividad. Estudiar un idioma nuevo exige que el cerebro vea cosas en una manera diferente y considere puntos de vista que era desconocidos. Estudiantes pueden aplicar éste a su tarea, pero también problemas del mundo actual."
 		},
-		"#brain > #p2":{
+		"#brain #p2":{
 			"en":"Some people try to achieve the same \"mind expanding\" effects with dangerous methods like drugs. Learning a language has the same benefit and offers a feeling of self-satisfaction without any danger.",
 			"es":"Algunas personas tratan de obtener los mismos efectos de \"expansión de cerebro\" con metodos peligrosas como drogas. Aprender un idioma tiene los mismos beneficios y también ofrece un sentimiento satisfecho sin peligro."
 		}
